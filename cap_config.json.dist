@@ -1,0 +1,7 @@
+{
+    "application": "your-app-name",
+    "repo_url": "git@github.com:HarperCollins/your-repo.git",
+    "staging_url": "staging.targetserver.com",
+    "production_url": "production.targetserver.com",
+    "dbpass": "YOUR DATABASE PASSWORD"
+}
